@@ -73,7 +73,7 @@ Pure chaos.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/twist-tac-toe.git
+   git clone https://github.com/shegzydev/TwistTacToe.git
    ```
 2. Open the project in Unity
 3. Press **Play** and enjoy the chaos 🎲
@@ -111,7 +111,7 @@ This project is released under the **MIT License**.
 **Segun Ayomide Olu‑Abe**  
 Gameplay Programmer & Game Developer
 
-- Portfolio: https://gigobyte.itch.io  
+- Portfolio: https://gigobyte.itch.io | https://shegzy.me
 - LinkedIn: https://www.linkedin.com/in/segun-olu-abe-55133626a/
 
 ---
