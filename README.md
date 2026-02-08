@@ -4,6 +4,10 @@ A modern, chaotic twist on the classic Tic‑Tac‑Toe you already know — buil
 
 **Twist Tac Toe** takes the simple 3×3 grid and bends the rules with multiple game modes, each introducing a unique mechanic that forces players to rethink strategy beyond just making three in a row.
 
+You can play the game here
+
+Tap to play : [https://shegzy.me/public/twisttactoe](https://shegzy.me/public/twisttactoe)
+
 ---
 
 ## 🧩 Game Modes
